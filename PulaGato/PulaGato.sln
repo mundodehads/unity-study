@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{D100A1AC-3C8C-35C3-3896-C13A390DE065}") = "PulaGato", "Assembly-CSharp.csproj", "{73AFFD45-3A85-F3F3-50A8-C143AFC29CA2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{73AFFD45-3A85-F3F3-50A8-C143AFC29CA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73AFFD45-3A85-F3F3-50A8-C143AFC29CA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73AFFD45-3A85-F3F3-50A8-C143AFC29CA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73AFFD45-3A85-F3F3-50A8-C143AFC29CA2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
