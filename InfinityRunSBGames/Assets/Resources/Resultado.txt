@@ -1,0 +1,8 @@
+Resultado:
+250Hz-18dB
+500Hz-18dB
+1kHz-18dB
+2kHz-18dB
+4kHz-18dB
+8kHz-18dB
+
