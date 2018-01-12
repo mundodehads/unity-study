@@ -1,0 +1,16 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\BulletMove.cs">
+    <Files>
+      <File FileName="Assets\Scripts\scptGameController.cs" Line="4" Column="1" />
+      <File FileName="Assets\Scripts\SceneMove.cs" Line="8" Column="16" />
+      <File FileName="Assets\Scripts\BulletMove.cs" Line="33" Column="27" />
+      <File FileName="Assets\Scripts\cena0BulletMove.cs" Line="26" Column="2" />
+      <File FileName="Assets\Scripts\GameController.cs" Line="22" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

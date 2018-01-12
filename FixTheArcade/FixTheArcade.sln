@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FixTheArcade", "Assembly-CSharp.csproj", "{D7BC11E8-4418-E7E4-FB0C-1D6E0A13AEFE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D7BC11E8-4418-E7E4-FB0C-1D6E0A13AEFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7BC11E8-4418-E7E4-FB0C-1D6E0A13AEFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7BC11E8-4418-E7E4-FB0C-1D6E0A13AEFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7BC11E8-4418-E7E4-FB0C-1D6E0A13AEFE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

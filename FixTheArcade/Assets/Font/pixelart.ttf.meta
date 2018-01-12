@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 71cc2debf95e05d4cbac6b22a66f72d1
+timeCreated: 1489170410
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Pixel-Art
+  fontNames:
+  - Pixel-Art
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
