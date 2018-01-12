@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Q" size="1.000000 1.489896" />
+    <ImageTarget name="J" size="1.000000 1.493121" />
+    <ImageTarget name="K" size="1.000000 1.631966" />
+    <ImageTarget name="redjoker" size="1.000000 1.508965" />
+    <ImageTarget name="blackjoker" size="1.000000 1.531532" />
+  </Tracking>
+</QCARConfig>
